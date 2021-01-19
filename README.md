@@ -1,7 +1,7 @@
 # react-base
 <div align=center>
 
-[![Build Status](https://travis-ci.com/knoteHOW/react-base.svg?branch=master)](https://travis-ci.com/knoteHOW/react-base)
+[![Build Status](https://travis-ci.com/knoteHOW/react-base.svg?branch=main)](https://travis-ci.com/knoteHOW/react-base)
 
 </div>
 
