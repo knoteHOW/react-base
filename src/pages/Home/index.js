@@ -1,9 +1,11 @@
+import UserCard from "../../components/UserCard";
+
 const Home = () => {
-    return (
-        <>
-            <h2>Home</h2>
-        </>
-    )
-}
+  return (
+    <>
+      <UserCard />
+    </>
+  );
+};
 
 export default Home;
